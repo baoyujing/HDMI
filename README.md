@@ -39,9 +39,9 @@ Baoyu Jing, Chanyoung Park and Hanghang Tong, [HDMI: High-order Deep Multiplex I
 
 ```
 @article{jing2021hdmi,
-  title={HDMI: High-order Deep Multiplex Infomax},\
-  author={Jing, Baoyu and Park, Chanyoung and Tong, Hanghang},\
-  journal={arXiv preprint arXiv:2102.07810},\
+  title={HDMI: High-order Deep Multiplex Infomax},
+  author={Jing, Baoyu and Park, Chanyoung and Tong, Hanghang},
+  journal={arXiv preprint arXiv:2102.07810},
   year={2021}
 }
 ```
